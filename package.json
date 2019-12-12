@@ -1,10 +1,11 @@
 {
   "name": "@walls/object.pick",
   "version": "1.0.0",
-  "description": "",
+  "description": "a object picking or filtering module. Inspired from https://www.npmjs.com/package/object.pick",
+  "repository": "https://github.com/wallsmetalroofing/object.pick",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx mocha test.js -s -1"
   },
   "keywords": [],
   "author": "Trevor Reimer <trevor@wallsmetalroofing.com>",
@@ -14,5 +15,8 @@
     "has-value": "^2.0.2",
     "isobject": "^4.0.0",
     "set-value": "^3.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
   }
 }

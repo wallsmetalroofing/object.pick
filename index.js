@@ -3,6 +3,12 @@ const set = require("set-value");
 const get = require("get-value");
 const isObject = require("isobject");
 
+/**
+ * Cherry pick the values from the given object
+ * 
+ * @param {Object} data the data object to get the values from
+ * @param {String[]} keys the keys to copy to new array
+ */
 function objectPick(data, keys) {
 
     // check if the input value is a valid object
