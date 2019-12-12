@@ -1,0 +1,18 @@
+{
+  "name": "@walls/object.pick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Trevor Reimer <trevor@wallsmetalroofing.com>",
+  "license": "ISC",
+  "dependencies": {
+    "get-value": "^3.0.1",
+    "has-value": "^2.0.2",
+    "isobject": "^4.0.0",
+    "set-value": "^3.0.1"
+  }
+}
