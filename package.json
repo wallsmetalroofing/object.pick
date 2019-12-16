@@ -1,6 +1,6 @@
 {
   "name": "@walls/object.pick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a object picking or filtering module. Inspired from https://www.npmjs.com/package/object.pick",
   "repository": "https://github.com/wallsmetalroofing/object.pick",
   "main": "index.js",
