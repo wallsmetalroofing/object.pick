@@ -1,7 +1,7 @@
 const has = require("has-value");
 const set = require("set-value");
 const get = require("get-value");
-const isObject = require("isobject/index.cjs.js");
+const isObject = require("isobject");
 
 /**
  * Cherry pick the values from the given object
