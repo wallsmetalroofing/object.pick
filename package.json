@@ -14,9 +14,9 @@
     "get-value": "^3.0.1",
     "has-value": "^2.0.2",
     "isobject": "^4.0.0",
-    "set-value": "^3.0.2"
+    "set-value": "^4.1.0"
   },
   "devDependencies": {
-    "mocha": "^6.2.3"
+    "mocha": "^10.1.0"
   }
 }
